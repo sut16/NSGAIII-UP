@@ -23,7 +23,4 @@ classdef NSGAIIIUP < ALGORITHM
             end
         end
     end
-
-
-
 end
